@@ -2,14 +2,6 @@
 
 **Sanctania** is an organization dedicated to building a classic-style MMORPG that pushes the genre to its limits without compromising on ethics or craft.
 
-## 🌍 Our Vision
-
-Our ambition is to create a single, seamless, procedurally generated world **no instances, no loading screens, no artificial shards** that keeps living whether or not anyone is logged in. 
-
-- **Player-Driven Story:** Reputation, factions, and conflict emerge from what people actually do, not from a scripted questline.
-- **Agent-Driven World:** Every NPC and monster is agent-driven, with its own goals and behavior rather than a fixed script. They are not privileged server code; they connect to the world as ordinary clients.
-- **Massive Scale:** A horizontally scalable, authoritative architecture designed for massive concurrent populations, powered by a mesh of workers.
-
 ## ⚖️ The Nine Commandments (Our Ethics)
 
 Sanctania is sacred and its authenticity must be preserved at all cost. We strictly adhere to these core principles:
