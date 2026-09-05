@@ -4,7 +4,7 @@
 
 ## 🌍 Our Vision
 
-Our ambition is to create a single, seamless, procedurally generated world—no instances, no loading screens, no artificial shards—that keeps living whether or not anyone is logged in. 
+Our ambition is to create a single, seamless, procedurally generated world **no instances, no loading screens, no artificial shards** that keeps living whether or not anyone is logged in. 
 
 - **Player-Driven Story:** Reputation, factions, and conflict emerge from what people actually do, not from a scripted questline.
 - **Agent-Driven World:** Every NPC and monster is agent-driven, with its own goals and behavior rather than a fixed script. They are not privileged server code; they connect to the world as ordinary clients.
