@@ -22,14 +22,13 @@ Sanctania is sacred and its authenticity must be preserved at all cost. We stric
 6. No auto bans from mass reporting.
 7. Real game masters voted by the community every season.
 8. No catering to e-sports.
-9. No wokeism, no f*cking politics.
+9. No politics, no agendas.
 
 ## 🛠 Getting Involved
 
 This is a massive endeavor, and maybe the first of its kind. We believe in always maintaining a playable version of the game to allow enthusiasts to test and provide rapid feedback.
 
 - **Check out our repositories:** Explore our code to see how we are building a seamless world.
-- **Architecture:** We leverage a robust stack (Rust, Bevy, QUIC) to power the client, authoritative server, edge routers, and AI directors.
 - **Contribution:** (More details to come as we formalize our contribution guidelines.)
 
 ## 📚 Resources
